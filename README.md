@@ -2,10 +2,11 @@
 A HTML/CSS personal project using react. <br>
 Website Link: https://airbnb-clone-92ed9.web.app/
 <br>
+<br>
 <img width="1414" alt="Screen Shot 2022-03-22 at 10 19 37 AM" src="https://user-images.githubusercontent.com/87871681/159503216-649f8b66-e470-4172-bb02-132ce741f779.png">
 
 
-<h4>Contents</h4>
+<h2>Contents</h2>
 
 
 AirBnB Clone is a clone application duplicating the AirBnB Website which is the travel commercial application. It incorporates Front-End web development using HTML/CSS. Implemented responsive website using Javascript and CSS.
@@ -13,9 +14,12 @@ AirBnB Clone is a clone application duplicating the AirBnB Website which is the 
 <img width="976" alt="Screen Shot 2022-03-22 at 10 16 33 AM" src="https://user-images.githubusercontent.com/87871681/159502545-ee823505-d6b4-4b0c-874b-283a3eac6719.png">
 
 
+<h2>Explore Nearby</h2>
+
 Click on Explore Nearby Link to show the second page of the website: https://airbnb-clone-92ed9.web.app/search
 
 
+<img width="1400" alt="Screen Shot 2022-03-22 at 10 21 50 AM" src="https://user-images.githubusercontent.com/87871681/159503926-d6a3c9f4-773e-49c7-ac91-7ca59390bf97.png">
 
 
 
